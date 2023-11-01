@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MY-CV</title>
+    <style>
+        body {
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid  black;
+        }
+
+        <h1, h2,h3,h4,h5,h6,h7 {
+        background-color: #ff100;
+        color: white;
+        padding: 20px;
+        border-radius: 5px;
+        }
+
+        ul {
+        list-style-type: circle;
+        padding-left: 10px;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Self Intro</h1></center>
+     <p>My name is ibrar ul hassan</p>
+     <p>I am from sialkot pakistan</p>
+     <p>I complete matric from The,Spirit,School</p>
+
+    
+
+   <center> <h2>Education</h2></center>
+        <li>Matric.B. Grade.</li>
+        <li>Inter.c.Grade.</li>
+    <p> Study in University ,of ,sialkot</p>
+    <ul>
+        <li>Programme BSCS computer sciences</li>
+    </ul>
+
+    <center><h3>Hobbies</h3></center>
+    <ul>
+        <li>Drawing.</li>
+        <li>Discover new places .</li>
+        <li>CRICKET GAME.</li>
+        <li>fishing.</li>
+    </ul>
+
+    <center><h4>skills</h4></center>
+        <li>writing.</li>
+        <li>programing.c#,c++.</li>
+        
+       
+    <ul>
+         <center><h5>Past work</h5></center>
+        <li>student management system.</li>
+        <li>parking managment system.</li>
+      
+    </ul>
+
+   <center> <h6>What Do for Country</h6></center>
+    
+    <li>Help support a child's education</li>
+    <li>Stop littering around</li>
+    <li>Stop participating in corruption.</li>
+
+    <center><h7>Contact Information</h7></center>
+    <p>Location: SIALKOT, PAKISTAN</p>
+    <p>Phone: o3316592627</p>
+    <p>Email:ibrarhassan083@gmail.com</a></p>
+</body>
+</html>
